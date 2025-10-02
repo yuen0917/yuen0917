@@ -18,7 +18,7 @@
 - NTHU EE
 
 ## Lab
-- TEA Lab
+- [Telecom Electroacoustics Audio Lab](https://github.com/NTHU-TEA-LAB)
 
 <!-- Programming Languages -->
 ## Programming Languages
