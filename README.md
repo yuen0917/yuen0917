@@ -1,4 +1,13 @@
-## Hi there 👋
+# yuen0917
+
+## Name
+
+YUEN, TSAI
+
+## School
+- TCIVS CS
+- NTUST ECE
+- NTHU EE
 
 <!--
 **yuen0917/yuen0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
