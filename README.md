@@ -1,3 +1,14 @@
+<div  align="center">
+  <pre>
+ __     __  _     _   ______  __   __ 
+ \ \   / / | |   | | |   ___||  \ |  |
+  \ \_/ /  | |   | | |  |___ |   \|  |
+   \   /   | |   | | |   ___||       |
+    | |    | |___| | |  |___ |  |\   |
+    |_|     \_____/  |______||__| \__|
+  </pre>
+</div>
+
 ## Name
 
 YUEN, TSAI
@@ -7,10 +18,8 @@ YUEN, TSAI
 - NTUST ECE
 - NTHU EE
 
-## Languages and Tools
-
 <!-- Programming Languages -->
-<h3>Programming Languages</h3>
+## Programming Languages
 <ul>
   <li>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -30,7 +39,7 @@ YUEN, TSAI
 </ul>
 
 <!-- Tools -->
-<h3>Tools</h3>
+## Tools
 <ul>
   <li>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
