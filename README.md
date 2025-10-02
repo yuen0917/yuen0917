@@ -10,13 +10,15 @@
 </div>
 
 ## Name
-
-YUEN, TSAI
+- YUEN, TSAI
 
 ## School
 - TCIVS CS
 - NTUST ECE
 - NTHU EE
+
+## Lab
+- TEA Lab
 
 <!-- Programming Languages -->
 ## Programming Languages
