@@ -29,7 +29,17 @@
 <!-- Tools -->
 ## Tools
 - Git
-- Linux
+- Linux/Windows
 - Matlab
 - Arduino
 
+## Board Experience
+- 8051
+- Altera DE2-115(FPGA)
+- STM32L053R8 Nucleo
+- STM32F746 Discovery
+- NVIDIA Jetson nano
+- TDA4VM
+- Zedboard
+- Xilinx XC6SLX75T Chip
+- Xilinx KR260
