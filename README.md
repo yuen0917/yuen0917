@@ -35,7 +35,7 @@
 
 ## Board Experience
 - 8051
-- Altera DE2-115(FPGA)
+- Altera DE2-115
 - STM32L053R8 Nucleo
 - STM32F746 Discovery
 - NVIDIA Jetson nano
