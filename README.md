@@ -25,6 +25,7 @@
 - C
 - Python
 - Verilog
+- Basic HTML/CSS/JS
 
 <!-- Tools -->
 ## Tools
