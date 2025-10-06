@@ -25,7 +25,7 @@
 - C
 - Python
 - Verilog
-- Basic HTML/CSS/JS
+- Basic HTML/CSS/JS, Next.js, React
 
 <!-- Tools -->
 ## Tools
@@ -33,6 +33,7 @@
 - Linux/Windows
 - Matlab
 - Arduino
+- Vercel
 
 ## Board Experience
 - 8051
