@@ -25,7 +25,7 @@
 - C
 - Python
 - Verilog
-- Basic HTML/CSS/JS, SQL, Next.js, React, TypeScript
+- Basic HTML/CSS/JS
 
 <!-- Tools -->
 ## Tools
