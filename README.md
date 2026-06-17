@@ -21,19 +21,12 @@
 - [Telecom Electroacoustics Audio Lab](https://github.com/NTHU-TEA-LAB)
 
 <!-- Programming Languages -->
-## Programming Languages
+## Skill
 - C
 - Python
 - Verilog
+- Cell-based IC design flow
 - Basic HTML/CSS/JS
-
-<!-- Tools -->
-## Tools
-- Git
-- Linux/Windows
-- Matlab
-- Arduino
-- Vercel
 
 ## Board Experience
 - 8051
